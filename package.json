@@ -1,0 +1,26 @@
+{
+  "name": "day2agginments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nodeP",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon nodeP"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BharathPagadala/day2Agginments.git"
+
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BharathPagadala/day2Agginments/issues"
+  },
+  "homepage": "https://github.com/BharathPagadala/day2Agginments#readme",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "express": "^4.18.3",
+    "nodemon": "^3.1.0"
+  }
+}
